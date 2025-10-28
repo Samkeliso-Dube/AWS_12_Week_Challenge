@@ -70,7 +70,7 @@ If you have any questions, suggestions, or want to collaborate:
 |------|------|---------|
 | Samkeliso Dube | Cloud & DevOps Engineer | 📧 lainnecoatzee@gmail.com |
 | GitHub | Repository & Issues | [GitHub Issues](https://github.com/Samkeliso-Dube/AWS_12_Week_Challenge) |
-| LinkedIn | Professional Profile | [LinkedIn](www.linkedin.com/in/samkeliso-dube03) |
+| LinkedIn | Professional Profile | [LinkedIn](https://www.linkedin.com/in/samkeliso-dube03) |
 
 ---
 
