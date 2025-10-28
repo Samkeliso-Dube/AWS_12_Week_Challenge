@@ -68,9 +68,9 @@ If you have any questions, suggestions, or want to collaborate:
 
 | Name | Role | Contact |
 |------|------|---------|
-| Samkeliso Dube | Cloud & DevOps Engineer | 📧 samkeliso@example.com |
-| GitHub | Repository & Issues | [GitHub Issues](https://github.com/yourusername/AWS_12_Week_Challenge/issues) |
-| LinkedIn | Professional Profile | [LinkedIn](https://linkedin.com/in/yourprofile) |
+| Samkeliso Dube | Cloud & DevOps Engineer | 📧 lainnecoatzee@gmail.com |
+| GitHub | Repository & Issues | [GitHub Issues](https://github.com/Samkeliso-Dube/AWS_12_Week_Challenge) |
+| LinkedIn | Professional Profile | [LinkedIn](www.linkedin.com/in/samkeliso-dube03) |
 
 ---
 
