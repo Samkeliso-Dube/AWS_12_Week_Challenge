@@ -17,7 +17,7 @@ Gain practical experience in AWS by completing weekly projects, understanding cl
 | Week | Project | Objectives | Link |
 |------|---------|------------|------|
 | 1    | Week-1 Cloud Challenge: Single-Instance Web App | Learn AWS fundamentals, IAM, and global infrastructure; Launch EC2; Deploy a basic web app | [Week 1](./week-1/readme.md) |
-| 2    | [Coming Soon] | [Objectives for Week 2] | [Week 2](./Week_02/README.md) |
+| 2    | Week 2: Multi-Tier EC2 App Deployment  | Launch frontend and backend EC2 instances; Attach Elastic IP; Enable private IP communication between frontend and backend; Implement security groups best practices | [Week 2](./week-2/readme.md) |
 | 3    | [Coming Soon] | [Objectives for Week 3] | [Week 3](./Week_03/README.md) |
 | 4    | [Coming Soon] | [Objectives for Week 4] | [Week 4](./Week_04/README.md) |
 | 5    | [Coming Soon] | [Objectives for Week 5] | [Week 5](./Week_05/README.md) |
